@@ -9,6 +9,11 @@
 A data science project investigating whether sentiment extracted from Bitcoin-related tweets can predict future Bitcoin price direction (30-day returns). The study employs both classic NLP (TF-IDF + Logistic Regression) and deep learning (Bidirectional LSTM) under a rigorous hypothesis-driven evaluation framework.
 
 ---
+## 🔗 Links
+- **[YouTube Presentation](https://youtu.be/0YfxmVveXcw)** 
+- **[Google Colab Notebook](https://colab.research.google.com/drive/1OkFQIUxDsPFj9k8jPyfHEm9qvcsy5cyS?usp=sharing)** 
+
+---
 
 ## Research Question
 
